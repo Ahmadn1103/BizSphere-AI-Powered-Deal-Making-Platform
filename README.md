@@ -1,12 +1,8 @@
-<p align="center">
-  <!-- Optional logo -->
-  <img src="https://i.ibb.co/7xbbdN4S/Biz-Sphere-ai.png" width="160" alt="BizSphere Logo" />
-</p>
 
 <h1 align="center">BizSphere – AI-Powered Deal-Making Platform</h1>
 
 <p align="center">
-  <strong>Aug 2025 – Present</strong> · <em>Associated with BizSphere</em>
+  <strong>Aug 2025 – Present</strong> · <em>Associated with BizSphere</em> <em>AI Software Developer</em>
 </p>
 
 <p align="center">
