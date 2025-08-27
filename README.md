@@ -13,7 +13,6 @@
     <img alt="Open Full Image" src="https://img.shields.io/badge/Open-Full%20Image-14b8a6?style=for-the-badge&logo=image&logoColor=white">
   </a>
   <img alt="Status" src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
-  <img alt="Contributions Welcome" src="https://img.shields.io/badge/Contributions-Welcome-8b5cf6?style=for-the-badge&logo=github">
 </p>
 
 <!-- Banner / Screenshot -->
