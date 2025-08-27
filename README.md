@@ -172,7 +172,6 @@ Helped take BizSphere from pilot to launch, developing core features and collabo
 
 <ul>
   <li>🌐 <a href="https://www.bizsphere.ai" target="_blank">Live Platform</a></li>
-  <li>🖼️ <a href="https://i.ibb.co/7xbbdN4S/Biz-Sphere-ai.png" target="_blank">Full Image</a></li>
 </ul>
 
 <hr/>
