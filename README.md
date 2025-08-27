@@ -56,7 +56,7 @@ Helped take BizSphere from pilot to launch, developing core features and collabo
 <table>
   <tr>
     <td>💬 <b>Feedback Platform</b><br/><sub>Slack integration, real-time loops</sub></td>
-    <td>💳 <b>Credit System</b><br/><sub>Pre-exec checks, hard stops</sub></td>
+    <td>💳 <b>Credit System</b><br/><sub>Pre-execution checks, hard stops</sub></td>
     <td>🛠️ <b>Admin Panel</b><br/><sub>Users, tiers, revenue, invoicing</sub></td>
   </tr>
   <tr>
